@@ -46,8 +46,8 @@ const Index = () => {
             />
             <UsageCard
               title="Current Cost"
-              value="$28.47"
-              unit="USD"
+              value="₹2,374"
+              unit="INR"
               icon={<DollarSign className="h-5 w-5" />}
               variant="default"
             />
